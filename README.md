@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Pooja Kumari  
 
 
-🎓 MCA Graduate | 📊 Aspiring Data Analyst | 💻 Technical Content Creator  
+🎓 MCA Graduate | 📊 Aspiring Data Analyst | Python, Power BI, Excel ,MySQL| Helping Businesses Unlock Insights & Drive Decisions  
 
 ---
 
@@ -32,7 +32,8 @@
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pooja-kumari-6a5466218)  
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/POOJAKUMARI-DS)  
-📧 **Email:** 000786poojakumari@gmail.com
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:000786poojakumari@gmail.com)
+
 ---
 
 ✨ *“Data is not just numbers — it’s a story waiting to be told.”*
