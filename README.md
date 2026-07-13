@@ -1,5 +1,8 @@
 # 👋 Hi, I'm Pooja Kumari  
 
+![Pooja Data Analyst Header](https://copilot.microsoft.com/th/id/BCO.e35f12ae-de3a-4615-b25d-c3e542f3656a.png)
+
+
 
 🎓 MCA Graduate | 📊 Aspiring Data Analyst | Python, Power BI, Excel ,MySQL| Helping Businesses Unlock Insights & Drive Decisions  
 
@@ -13,6 +16,19 @@
 - ✨ Open to entry‑level Data Analyst opportunities  
 
 ---
+## 🛠️ Skills & Tools
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white)
+
 
 ## 🛠 Tech Stack
 - **Languages & Tools:** Python, SQL, Excel, Power BI  
@@ -22,6 +38,7 @@
 ---
 
 ## 📂 Featured Projects
+- 📊 [Marketing Campaign Analysis](https://github.com/POOJAKUMARI-DS/Marketing-Campaign-Analysis)
 - 🚗 [Car Price Analysis](https://github.com/POOJAKUMARI-DS/Car-Price-Analysis)  
 - 📚 [Books Sales Analysis](https://github.com/POOJAKUMARI-DS/Books-Sales-Analysis)  
 - ✈️ [Flight Delay Analysis](https://github.com/POOJAKUMARI-DS/Flight-Delay-Analysis-EDA_Feature-Engineering)  
