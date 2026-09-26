@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Pooja Kumari  
 
-![Pooja Data Analyst Header](https://copilot.microsoft.com/th/id/BCO.e35f12ae-de3a-4615-b25d-c3e542f3656a.png)
+
 
 
 
